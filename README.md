@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there! 👋
 
 My name is Junghun Lee, I hope to be a Asset allocation manager / Trader. I’m currently belonged to **Sogang University** (senior, undergraduated)
 
