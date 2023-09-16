@@ -17,8 +17,8 @@ My name is Junghun Lee, I hope to be a Asset allocation manager / Trader. I’m 
 
 <a href="https://tommylee1013.notion.site/Tommy-Station-045cd657e58848fa9158a53b55d4fed5?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=000000"/><a href="https://www.instagram.com/t0mmy_life/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=#E4405F"/><a href="https://twitter.com/T0mthom" target="_blank"><img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=#1D9BF0"/></a>
 
-- 금융데이터분석학회 `FIND-A` 5기, 학술부 부장(2023-01)
-- 서강대학교 계량금융학회 `Quantifi` 학회장
+- 금융데이터분석학회 **`FIND-A`** 5기, 학술부 부장(2023-01)
+- 서강대학교 계량금융학회 **`Quantifi`** 학회장
 
 ### Contact to me ✉️
 
