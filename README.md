@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Tommy%20Lee&fontSize=90)
 
+<div align="center">
+
 ## Hi there! 👋
 
 My name is Junghun Lee, I hope to be a Asset allocation manager / Trader. I’m currently belonged to **Sogang University** (senior, undergraduated)
@@ -27,3 +29,5 @@ My name is Junghun Lee, I hope to be a Asset allocation manager / Trader. I’m 
 `junghun1013@icloud.com`
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommylee1013&show_icons=true&theme=default)
+
+</div>
