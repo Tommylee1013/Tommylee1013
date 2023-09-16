@@ -24,4 +24,4 @@ My name is Junghun Lee, I hope to be a Asset allocation manager / Trader. I’m 
 
 `junghun1013@icloud.com`
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommylee1013&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommylee1013&show_icons=true&theme=default)
