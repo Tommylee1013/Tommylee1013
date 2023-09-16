@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Tommy%20Lee&fontSize=90)
-
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Tommy%20Lee&fontSize=90)
 
 ## Hi there! 👋
 
-My name is Junghun Lee, I hope to be a Asset allocation manager / Trader. I’m currently belonged to **Sogang University** (senior, undergraduated)
+My name is Junghun Lee, I hope to be a Asset allocation manager / Trader
+I’m currently belonged to **Sogang University** (senior, undergraduated)
 
 ### I'm currently learning...
 
