@@ -11,10 +11,15 @@ I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 ### Majors
 
 **`Financial Economics` `Econometrics`** 
+
 <br>
+
 **`Data Science`**
+
 <br>
+
 **`Japanese`**
+
 <br>
 
 ### I can do...
