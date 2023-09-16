@@ -8,9 +8,13 @@ My name is Junghun Lee, I hope to be a Asset allocation manager / Trader <br>
 I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 <br>
 
-### Major
+### Majors
 
-**`Financial Economics` `Econometrics` `Data Science` `Japanese`**
+**`Financial Economics` `Econometrics`** 
+<br>
+**`Data Science`**
+<br>
+**`Japanese`**
 <br>
 
 ### I can do...
