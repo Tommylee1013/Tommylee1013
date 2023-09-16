@@ -4,7 +4,7 @@
 
 ## Hi there! 👋
 
-My name is Junghun Lee, I hope to be a Asset allocation manager / Trader <br>
+My name is Junghun Lee, I hope to be an Asset allocation manager / Trader <br>
 I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 <br>
 
