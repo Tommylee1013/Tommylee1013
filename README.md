@@ -12,15 +12,9 @@ I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 
 **`Financial Economics`**
 
-<br>
-
 **`Econometrics`** 
 
-<br>
-
 **`Bigdata Science`**
-
-<br>
 
 **`Japanese Culture`**
 
