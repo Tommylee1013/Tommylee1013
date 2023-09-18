@@ -48,7 +48,7 @@ I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommylee1013&layout=compact"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommylee1013&layout=compact">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommylee1013&show_icons=true&theme=default)
 
 </div>
