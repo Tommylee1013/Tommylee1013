@@ -50,6 +50,7 @@ I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 
 2023 서강융합기술경진대회 인문사회예체능계열 대상
 
+2023 FIND-A 하이퍼파라미터상
 
 ### ✉️ Contact to me 
 
