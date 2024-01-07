@@ -42,6 +42,15 @@ I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 
 서강대학교 계량금융학회 **`Quantifi`** 학회장
 
+### 🏆 Prize
+
+2022 서강대학교 경제대학 성적우수학생
+
+2023 NH투자증권 빅데이터경진대회 우수상
+
+2023 서강융합기술경진대회 인문사회예체능계열 대상
+
+
 ### ✉️ Contact to me 
 
 `junghun1013@icloud.com`
