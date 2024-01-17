@@ -26,7 +26,9 @@ I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 
 ### 💻 My Stack 
 
-<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=#3776AB"/><img src="https://img.shields.io/badge/R-FFFFFF?style=for-the-badge&logo=R&logoColor=#3776AB"/><img src="https://img.shields.io/badge/javascript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=#3776AB"/><img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=C&logoColor=#3776AB"/><img src="https://img.shields.io/badge/cplusplus-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=#00599C"/><img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=MYSQL&logoColor=#3776AB"/><img src="https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=#3776AB"/><img src="https://img.shields.io/badge/Swift-FFFFFF?style=for-the-badge&logo=swift&logoColor=#3776AB"/>
+<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=#3776AB"/><img src="https://img.shields.io/badge/R-FFFFFF?style=for-the-badge&logo=R&logoColor=#3776AB"/><img src="https://img.shields.io/badge/javascript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=#3776AB"/><img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=C&logoColor=#3776AB"/>
+<img src="https://img.shields.io/badge/c++-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=#00599C"/>
+<img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=MYSQL&logoColor=#3776AB"/><img src="https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=#3776AB"/><img src="https://img.shields.io/badge/Swift-FFFFFF?style=for-the-badge&logo=swift&logoColor=#3776AB"/>
 
 <br>
 
@@ -40,6 +42,8 @@ I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 
 서강대학교 계량금융학회 **`Quantifi`** 학회장
 
+<br>
+
 ### 🏆 Prize
 
 2022 서강대학교 경제대학 성적우수학생
@@ -49,6 +53,8 @@ I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 2023 서강융합기술경진대회 인문사회예체능계열 대상
 
 2023 FIND-A 하이퍼파라미터상
+
+<br>
 
 ### ✉️ Contact to me 
 
