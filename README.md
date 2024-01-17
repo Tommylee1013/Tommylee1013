@@ -26,7 +26,7 @@ I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 
 ### 💻 My Stack 
 
-<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=#3776AB"/><img src="https://img.shields.io/badge/R-FFFFFF?style=for-the-badge&logo=R&logoColor=#3776AB"/><img src="https://img.shields.io/badge/javascript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=#3776AB"/><img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=C&logoColor=#3776AB"/><img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=MYSQL&logoColor=#3776AB"/><img src="https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=#3776AB"/><img src="https://img.shields.io/badge/Swift-FFFFFF?style=for-the-badge&logo=swift&logoColor=#3776AB"/>
+<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=#3776AB"/><img src="https://img.shields.io/badge/R-FFFFFF?style=for-the-badge&logo=R&logoColor=#3776AB"/><img src="https://img.shields.io/badge/javascript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=#3776AB"/><img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=C&logoColor=#3776AB"/><img src="https://img.shields.io/badge/cplusplus-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=#00599C"/><img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=MYSQL&logoColor=#3776AB"/><img src="https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=#3776AB"/><img src="https://img.shields.io/badge/Swift-FFFFFF?style=for-the-badge&logo=swift&logoColor=#3776AB"/>
 
 <br>
 
