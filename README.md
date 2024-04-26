@@ -1,16 +1,20 @@
-<div align="center">
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Tommy%20Lee&fontSize=90)
 
 ## Hi there! 👋
 
-My name is Junghun Lee, I hope to be an Asset allocation manager / Trader <br>
+My name is Junghun Lee, working  <br>
 I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 <br>
 
 ### Majors
 
-**`Financial Economics`** **`Econometrics`**  **`Bigdata Science`** **`Japanese Culture`**
+**`Financial Economics`** : 금융경제
+
+**`Econometrics`** : 계량경제
+
+**`Bigdata Science`** : 데이터사이언스(엔지니어)
+
+**`Japanese Culture`** : 일본문화(언어,문화)
 
 ### Minors
 
@@ -40,23 +44,47 @@ I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 
 금융데이터분석학회 **`FIND-A`** 5기, 학술부 부장(2023-01)
 
-서강대학교 계량금융학회 **`Quantifi`** 학회장
+서강대학교 계량금융학회 **`Quantifi`** 학회장(2023~2024.02)
+
+Core16 Data Engineer (2024.03~)
 
 <br>
 
 ### 🏆 Prize
 
-2022 서강대학교 경제대학 성적우수학생
+|수상연도|수상주체|내역|비고|
+|:---:|:---:|:---:|:---|
+|2022|서강대학교|서강대학교 경제대학 성적우수학생|경제대학 4등|
+|2023|NH투자증권|빅데이터경진대회 우수상|전체 2등|
+|2023|서강대학교|서강융합기술경진대회 대상|인문사회예체능계열 대상|
+|2023|서강대학교|서강대학교 경제대학 성적우수학생|경제대학 1등|
+|2024|DB금융그룹|DB금융경제공모전 장려상|주제 : Nowcasting with Explainable Machine Learning|
 
-2023 NH투자증권 빅데이터경진대회 우수상
+<br>
 
-2023 서강융합기술경진대회 인문사회예체능계열 대상
+### Projects
 
-2023 FIND-A 하이퍼파라미터상
+|연도|역할|주제|비고|
+|:---:|:---:|:---|:---|
+|2022|팀장|Turnover 지표를 이용한 모멘텀 투자전략 개발|금융시장계량분석(캡스톤디자인)|
+|2022|팀원|한국 소득 예측 프로젝트|경제학도를위한기계학습|
+|2023|팀장|Machine Learning을 이용한 매매전략 구축 프로젝트|AI금융(캡스톤디자인)|
+|2023|모델 구축|여행사진을 분류 서비스 개발 프로젝트|AI캡스톤디자인과 창업|
+|2023|모델 구축|Black Litterman Model을 활용한 Dynamic EMP 투자전략 개발|FIND-A|
+|2023|ML Engineer|Nowcasting with Explainable Machine Learning|경기변동론(캡스톤디자인)|
+|2023|개인프로젝트|뉴스데이터를 활용한 Crude Oil Price 이진 분류 예측 모형 개발|웹데이터수집과 텍스트분석(캡스톤디자인)|
+|2023|팀원|미국 거시데이터 및 New sentiment를 활용한 단기간 경기예측모형 개발|웹데이터수집과 텍스트분석(캡스톤디자인)|
+|2023|팀장|서울지 재개발지역 예측 모형 구축|산업수학(캡스톤디자인)|
+|2023|Software Engineer|교보문고 앱 재구축 프로젝트(프로토타입 제작)|빅데이터종합설계(캡스톤디자인)|
+|2023|개인프로젝트|Financial Machine Learning Library 개발|FIND-A, Quantifi|
+|2024|개인프로젝트|Dynamic Asset Management with Deep Learning||
 
-2023 서강대학교 경제대학 성적우수학생
 
-2024 DB금융경제공모전 장려상
+### Recent Research / Projects
+
+- 2 Step Statistical Model for Financial data quality validation
+- Market Entropy
+- Developing Trading System
 
 <br>
 
