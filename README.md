@@ -73,8 +73,8 @@ Core16 Data Engineer (2024.03~)
 |2023|모델 구축|Black Litterman Model을 활용한 Dynamic EMP 투자전략 개발|FIND-A|
 |2023|ML Engineer|Nowcasting with Explainable Machine Learning|경기변동론(캡스톤디자인)|
 |2023|개인프로젝트|뉴스데이터를 활용한 Crude Oil Price 이진 분류 예측 모형 개발|웹데이터수집과 텍스트분석(캡스톤디자인)|
-|2023|팀원|미국 거시데이터 및 New sentiment를 활용한 단기간 경기예측모형 개발|웹데이터수집과 텍스트분석(캡스톤디자인)|
-|2023|팀장|서울지 재개발지역 예측 모형 구축|산업수학(캡스톤디자인)|
+|2023|팀원|미국 거시데이터 및 News sentiment를 활용한 단기간 경기예측모형 개발|웹데이터수집과 텍스트분석(캡스톤디자인)|
+|2023|팀장|서울시 재개발지역 예측 모형 구축|산업수학(캡스톤디자인)|
 |2023|Software Engineer|교보문고 앱 재구축 프로젝트(프로토타입 제작)|빅데이터종합설계(캡스톤디자인)|
 |2023|개인프로젝트|Financial Machine Learning Library 개발|FIND-A, Quantifi|
 |2024|개인프로젝트|Dynamic Asset Management with Deep Learning||
