@@ -54,6 +54,10 @@ I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 
 2023 FIND-A 하이퍼파라미터상
 
+2023 서강대학교 경제대학 성적우수학생
+
+2024 DB금융경제공모전 장려상
+
 <br>
 
 ### ✉️ Contact to me 
