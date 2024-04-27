@@ -46,6 +46,8 @@ I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 
 서강대학교 계량금융학회 **`Quantifi`** 학회장(2023~2024.02)
 
+서강대학교 계량금융학회 **`Quantifi`** 학술부장(2024.02~)
+
 Core16 Data Engineer (2024.03~)
 
 <br>
@@ -70,14 +72,20 @@ Core16 Data Engineer (2024.03~)
 |:---:|:---:|:---|:---|
 |2022|팀장|Turnover 지표를 이용한 모멘텀 투자전략 개발|금융시장계량분석(캡스톤디자인)|
 |2022|팀원|한국 소득 예측 프로젝트|경제학도를위한기계학습|
+|2022|개인프로젝트|한국 부동산 가격 예측 모델 구축 프로젝트|기초빅데이터프로그래밍|
 |2023|팀장|Machine Learning을 이용한 매매전략 구축 프로젝트|AI금융(캡스톤디자인)|
 |2023|모델 구축|여행사진을 분류 서비스 개발 프로젝트|AI캡스톤디자인과 창업|
 |2023|모델 구축|Black Litterman Model을 활용한 Dynamic EMP 투자전략 개발|FIND-A|
+|2023|개인프로젝트|Machine　Learningを使う日本の経済成長率予測モデル構築|時事日本語|
+|2023|개인프로젝트|SNSやポータルサイトにおける日韓両国の文化交流の分析|日本学概論|
 |2023|ML Engineer|Nowcasting with Explainable Machine Learning|경기변동론(캡스톤디자인)|
-|2023|개인프로젝트|뉴스데이터를 활용한 Crude Oil Price 이진 분류 예측 모형 개발|웹데이터수집과 텍스트분석(캡스톤디자인)|
-|2023|팀원|미국 거시데이터 및 News sentiment를 활용한 단기간 경기예측모형 개발|웹데이터수집과 텍스트분석(캡스톤디자인)|
+|2023|개인프로젝트|Crude Oil Price Prediction using oilprice news data|웹데이터수집과 텍스트분석(캡스톤디자인)|
+|2023|팀원|Short-term USA GDP Prediction using FOMC texts and sentiments|웹데이터수집과 텍스트분석(캡스톤디자인)|
 |2023|팀장|서울시 재개발지역 예측 모형 구축|산업수학(캡스톤디자인)|
 |2023|Software Engineer|교보문고 앱 재구축 프로젝트(프로토타입 제작)|빅데이터종합설계(캡스톤디자인)|
+|2023|개인프로젝트|Web3.0 Auction System 구축 프로젝트|블록체인 및 응용|
+|2023|ML Engineer|Overnight Effect from USA market to KOSPI & KOSDAQ|NH투자증권|
+|2023|ML Engineer|Backtesting with Synthetic data in empirical market|Qauntifi|
 |2023|개인프로젝트|Financial Machine Learning Library 개발|FIND-A, Quantifi|
 |2024|개인프로젝트|Dynamic Asset Management with Deep Learning||
 
