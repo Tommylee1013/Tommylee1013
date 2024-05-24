@@ -88,6 +88,7 @@ Core16 Data Engineer (2024.03~)
 |2023|ML Engineer|Backtesting with Synthetic data in empirical market|Qauntifi|
 |2023|개인프로젝트|Financial Machine Learning Library 개발|FIND-A, Quantifi|
 |2024|개인프로젝트|Dynamic Asset Management with Deep Learning||
+|2024|ML & Project Manager| Meta Trader | 2024 서강융합기술경진대회 출품|
 
 
 ### Recent Research / Projects
