@@ -63,6 +63,7 @@ Core16 Data Engineer (2024.03~)
 |2023|FIND-A|하이퍼파라미터상|학회 기여자 대상|
 |2023|서강대학교|서강대학교 경제대학 성적우수학생|경제대학 1등|
 |2024|DB금융그룹|DB금융경제공모전 장려상|주제 : Nowcasting with Explainable Machine Learning|
+|2024|한국데이터산업진흥원|데이터분석준전문가||
 
 <br>
 
