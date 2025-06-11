@@ -6,23 +6,18 @@ My name is Junghun Lee, working  <br>
 I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 <br>
 
-### Majors
+### Education
 
-**`Financial Economics`** : 금융경제
-
-**`Econometrics`** : 계량경제
-
-**`Bigdata Science`** : 데이터사이언스(엔지니어)
-
-**`Japanese Culture`** : 일본문화(언어,문화)
-
-### Minors
-
-**`Artificial Intelligence`** **`Convergence Software Programming`**
+#### Sogang University
+  - Seoul, Republic of Korea
+      - Bachelor of Economics(Financial Economics, Econometrics)
+      - Bachelor of BigData Science(Data Engineering)
+      - Bachelor of Japanese Culture
+      - Minor : Artificial Intelligence, Convergence Software Programming
 
 <br>
 
-### I can do...
+### Computer Skills
 
 <img src="https://img.shields.io/badge/Statistics-FFFFFF?style=for-the-badge&logo=statamic&logoColor=#3776AB"/><img src="https://img.shields.io/badge/Machine Learning-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=#3776AB"/><img src="https://img.shields.io/badge/Deep Learning-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=#3776AB"/>
 
@@ -42,17 +37,7 @@ I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 
 <br>
 
-금융데이터분석학회 **`FIND-A`** 5기, 학술부 부장(2023-01)
-
-서강대학교 계량금융학회 **`Quantifi`** 학회장(2023~2024.02)
-
-서강대학교 계량금융학회 **`Quantifi`** 학술부장(2024.02~)
-
-Core16 Data Engineer (2024.03~)
-
-<br>
-
-### 🏆 Prize / Certificates
+### Honors & Activities
 
 |수상연도|수상주체|내역|비고|
 |:---:|:---:|:---:|:---|
@@ -65,6 +50,16 @@ Core16 Data Engineer (2024.03~)
 |2024|DB금융그룹|DB금융경제공모전 장려상|주제 : Nowcasting with Explainable Machine Learning|
 |2024|한국데이터산업진흥원|데이터분석준전문가||
 |2024|한국데이터산업진흥원|빅데이터분석기사||
+|2025|DB금융그룹|DB보험금융공모전 입상|주제 : Causal Factor GAN|
+
+금융데이터분석학회 **`FIND-A`** 5기, 학술부 부장(2023-01)
+
+서강대학교 계량금융학회 **`Quantifi`** 학회장(2023~2024.02)
+
+서강대학교 계량금융학회 **`Quantifi`** 학술부장(2024.02~)
+
+Core16 Data Engineer (2024.03~)
+
 
 <br>
 
@@ -91,13 +86,13 @@ Core16 Data Engineer (2024.03~)
 |2023|개인프로젝트|Financial Machine Learning Library 개발|FIND-A, Quantifi|
 |2024|개인프로젝트|Dynamic Asset Management with Deep Learning||
 |2024|ML Engineer & Project Manager| Meta Trader | 2024 서강융합기술경진대회 출품|
+|2025|Leader|BOBP ETF|BOBP ETF 설계|
 
 
-### Recent Research / Projects
+### Recent Research 
 
-- 2 Step Statistical Model for Financial data quality validation
-- Market Entropy
-- Developing Trading System
+- GDP Nowcasting with Explainable Machine Learning
+- Causal Factor GAN; The dawn of Explainable Quantitative Finance
 
 <br>
 
