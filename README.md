@@ -93,6 +93,8 @@ Core16 Data Engineer (2024.03~)
 
 - GDP Nowcasting with Explainable Machine Learning
 - Causal Factor GAN; The dawn of Explainable Quantitative Finance
+- Posterior-NCO: Improving NCO Portfolio Allocation via Posterior Covariance and Bayesian Updating
+
 
 <br>
 
