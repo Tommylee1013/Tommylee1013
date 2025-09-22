@@ -51,6 +51,7 @@ I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 |2024|한국데이터산업진흥원|데이터분석준전문가||
 |2024|한국데이터산업진흥원|빅데이터분석기사||
 |2025|DB금융그룹|DB보험금융공모전 입상|주제 : Causal Factor GAN|
+|2025|서강대학교|서강대학교 경제대학 학술제 예선|경제대학 1위|
 
 금융데이터분석학회 **`FIND-A`** 5기, 학술부 부장(2023-01)
 
@@ -87,13 +88,14 @@ Core16 Data Engineer (2024.03~)
 |2024|개인프로젝트|Dynamic Asset Management with Deep Learning||
 |2024|ML Engineer & Project Manager| Meta Trader | 2024 서강융합기술경진대회 출품|
 |2025|Leader|BOBP ETF|BOBP ETF 설계|
-
+|2025|개인프로젝트|Posterior-NCO: Improving NCO Portfolio Allocation via Posterior Covariance and Bayesian Updating|학술제 출전용|
 
 ### Recent Research 
 
 - GDP Nowcasting with Explainable Machine Learning
 - Causal Factor GAN; The dawn of Explainable Quantitative Finance
 - Posterior-NCO: Improving NCO Portfolio Allocation via Posterior Covariance and Bayesian Updating
+- Dividend Stock Allocation Optimized for Taxation and Deferral
 
 
 <br>
