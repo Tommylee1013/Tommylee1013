@@ -52,6 +52,7 @@ I’m currently belonged to **Sogang University** (senior, undergraduated) <br>
 |2024|한국데이터산업진흥원|빅데이터분석기사||
 |2025|DB금융그룹|DB보험금융공모전 입상|주제 : Causal Factor GAN|
 |2025|서강대학교|서강대학교 경제대학 학술제 예선|경제대학 1위|
+|2025|한국응용경제학회|EON 경제대학 연합 학술제|최우수상|
 
 금융데이터분석학회 **`FIND-A`** 5기, 학술부 부장(2023-01)
 
