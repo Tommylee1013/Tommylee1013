@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Thomas
 
 Undergraduate researcher at **Sogang University (Seoul, Korea)**  
-Majors in **Financial Economics, Econometrics, Big Data Science**  
+Majors in **Financial Economics, Econometrics, Big Data Science, Japanese**  
 Minor in **AI & Convergence Software Programming**
 
 I focus on **quantitative finance, causal inference in asset allocation, and financial machine learning**.  
