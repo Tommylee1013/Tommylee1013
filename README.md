@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Junghun Lee (Tommy Lee)
+## 👋 Hi, I’m Thomas
 
 Undergraduate researcher at **Sogang University (Seoul, Korea)**  
 Majors in **Financial Economics, Econometrics, Big Data Science**  
