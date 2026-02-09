@@ -95,13 +95,15 @@ My recent work centers on building **explainable, causality-aware portfolio cons
 ## 🛠 Tech Stack
 
 **Languages**  
-Python, R, SQL, C/C++, JavaScript, Swift, Solidity  
+Primary : Python
+Secondary : SQL, JavaScript, Solidity
+Others : R, Swift, C/C++
 
 **Core Libraries**  
-NumPy, pandas, scikit-learn, PyTorch, statsmodels  
+NumPy, pandas, scikit-learn, PyTorch, statsmodels, econml
 
 **Domains**  
-Quantitative Finance, Time Series Modeling, Causal ML, Portfolio Optimization  
+Financial Machine Learning, Quantitative Finance, Time Series Modeling, Causal ML, Portfolio Optimization
 
 ---
 
